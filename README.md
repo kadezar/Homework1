@@ -31,3 +31,10 @@
 
 * If I were to advise Cadre I would push the ability for lower income families to be able to use our platform and I would suggest being able to invest beyond real-estate eliminating the need for people to use other platforms and build customer loyalty.
 * This will greatlty incraese the number of intended customers and expand the company.
+
+## Works Cited
+* https://www.nerdwallet.com/best/investing/real-estate-crowdfunding-platforms
+* https://fortune.com/2021/11/03/real-estate-tech-startup-cadre-multifamily-apartment-sales/#:~:text=To%20date%2C%20more%20than%2030%2C000,those%20investments%20to%20its%20backers.
+* https://cadre.com/our-company/
+* https://www.thewaystowealth.com/reviews/cadre-review/
+* https://en.wikipedia.org/wiki/Cadre_(company)
