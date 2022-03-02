@@ -11,5 +11,23 @@
 ## Buisness Activities
 * Cadre has a problem where only high income families are able to invest with the minimum of "Cadre Managed Portfolio" being $250,000. However, Cadre created an opportyunity zone fund wich encourages investment in low-income areas. They also want users to be able to invest in other assets beyond real estate such as: energy, natural resources, oil, etc.  
 * Cadre's intended customer will be higher income families who are looking to diversify their portflolio by investing into real-estate. Market size is made up of anyone who is an investor in real estate and Cadre has returned over $100 million to investors. Being a digital market place for real estate investing is a huge advantage Cadre has over competitors. It allows for more guidence and investment opportunities with Cadres data analysis team, also allows quicker transactions. 
-*  Cadre is using a Cadence Warehouse Managing system for 3rd party logistics, manufaturing, and distribution. Accuplus which is another warehouse managing system for 3rd party warehouse operations that give the ability to manage multiple warehouses, customers, products, rates, carriers, etc. Logiview application that provides monitoring real-time shipments and inventory. 
+*  Cadre is using a Cadence Warehouse Managing system for 3rd party logistics, manufaturing, and distribution. Accuplus which is another warehouse managing system for 3rd party warehouse operations that give the ability to manage multiple warehouses, customers, products, rates, carriers, etc. Logiview application that provides monitoring real-time shipments and inventory.
 
+## Landscape:
+
+* Cadre is in the invest managment domain
+* People have always been able to invest into stocks, ETF's, and real-estate but within the last five years investors have been able to manage their investments in cryptocurencies.
+* Other huge companies in this domain include Robinhood, Coinbase, Fundrise, RealtyMogul.
+
+
+## Results
+
+* The biggest impact on Cadre will surely be the ability for users to invest their money beyond real-estate.
+* Cadres success is meausred based on their number of users and property sold, and return on users investment. To date, Cadre has over 30,000 users which invested over $3.5 billion in more than 40 properties across the us.
+* Cadres competitors such as Fundrise has over 150,000 users but only $1 billion in assets because Cadre aims for higher income families. 
+
+
+## Recommendations
+
+* If I were to advise Cadre I would push the ability for lower income families to be able to use our platform and I would suggest being able to invest beyond real-estate eliminating the need for people to use other platforms and build customer loyalty.
+* This will greatlty incraese the number of intended customers and expand the company.
